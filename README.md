@@ -13,5 +13,6 @@ C语言学生管理系统
 
 5.需要在本地创建一个stu.txt文件保存或者读入数据
 
-6.该程序有密码校验功能 初始账号密码为root 123456
+6.该程序密码校验功能 初始账号密码为root 123456
 
+<img src="/RAOE/huanhuan-blog/raw/master/image/blog_home.jpg" alt="主页" style="max-width:100%;">
