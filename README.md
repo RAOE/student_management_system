@@ -15,4 +15,3 @@ C语言学生管理系统
 
 6.该程序密码校验功能 初始账号密码为root 123456
 
-<img src="/RAOE/huanhuan-blog/raw/master/image/blog_home.jpg" alt="主页" style="max-width:100%;">
