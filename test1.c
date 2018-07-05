@@ -9,8 +9,8 @@ int main(void)
     struct student *p;
     int m=1;//注意要修改回来
 	int zz=0;
-    //system("cls"); 
-    //m=in();
+    system("cls"); 
+    m=in();
     
    if(m==1)
    {
